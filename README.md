@@ -95,6 +95,8 @@ Travel Recommendation Engine
 <br>
 Interactive Map Visualization (Folium)
 
+---
+
 ## 🧰 Tech Stack
 
 - **Frontend/UI:** Streamlit
@@ -106,6 +108,8 @@ Interactive Map Visualization (Folium)
   - NASA FIRMS Wildfire API
 - **Visualization:** Interactive Geo Maps
 - **Backend Logic:** Python (scientific computing stack)
+
+---
 
 ### 📌 Future Improvements
 - AI chatbot for health recommendations
