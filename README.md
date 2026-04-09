@@ -111,7 +111,7 @@ Interactive Map Visualization (Folium)
 
 ---
 
-### 📌 Future Improvements
+## 📌 Future Improvements
 - AI chatbot for health recommendations
 - Mobile app integration
 - Predictive pollution forecasting (LSTM/Transformers)
