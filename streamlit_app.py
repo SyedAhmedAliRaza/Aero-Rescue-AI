@@ -959,7 +959,10 @@ st.markdown('<h1 class="main-title">🌍 Aero-Rescue AI Global</h1>', unsafe_all
 st.markdown('<p class="subtitle">200+ Cities • 80+ Countries • Real-time Air Quality • Health Risk Assessment</p>', unsafe_allow_html=True)
 
 with st.sidebar:
-    st.image("https://img.icons8.com/color/96/lungs.png", width=80)
+    st.image("<div style='text-align: center;'>"
+        "<img src='https://img.icons8.com/color/96/lungs.png' width='80'>"
+        "</div>",
+        unsafe_allow_html=True)
     st.title("🌐 Global Navigation")
 
     try:
