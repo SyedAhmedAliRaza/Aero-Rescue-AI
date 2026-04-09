@@ -961,7 +961,7 @@ st.markdown('<p class="subtitle">200+ Cities • 80+ Countries • Real-time Air
 with st.sidebar:
     st.markdown(
         "<div style='text-align: center;'>"
-        "<img src='https://img.icons8.com/color/96/lungs.png' width='80'>"
+        "<img src='https://img.icons8.com/color/96/lungs.png' width='1500'>"
         "</div>",
         unsafe_allow_html=True
     )
