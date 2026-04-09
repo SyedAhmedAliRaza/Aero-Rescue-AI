@@ -16,6 +16,12 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+with st.sidebar:
+    st.markdown(
+        "<h1 style='text-align: center;'>🫁</h1>",
+        unsafe_allow_html=True
+    )
+    
 WEATHER_API_KEY = os.environ.get("WEATHER_API_KEY", "")
 
 if not WEATHER_API_KEY:
