@@ -1,4 +1,4 @@
-# 🌍 Aero-Rescue AI Global
+# 🌍 Aero-Rescue AI 
 
 **AI-powered global respiratory safety and air-quality aware travel risk intelligence system**
 
