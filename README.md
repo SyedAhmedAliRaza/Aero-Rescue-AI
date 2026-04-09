@@ -4,7 +4,7 @@
 
 Aero-Rescue AI is an advanced Streamlit-based intelligent health and environmental analytics platform that evaluates **air quality, pollen exposure, wildfire activity, and medical risk factors** to generate **real-time travel safety recommendations** for users worldwide.
 
-It combines **live APIs + WHO datasets + regional pollution models + AI-driven risk scoring** to help users make safe travel and health decisions—especially for asthma, COPD, allergy, and respiratory-sensitive individuals.
+It combines **live APIs + WHO datasets + regional pollution models + AI-driven risk scoring** to help users make safe travel and health decisions especially for asthma, COPD, allergy, and respiratory-sensitive individuals.
 
 ---
 
